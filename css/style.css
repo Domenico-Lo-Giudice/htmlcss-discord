@@ -13,7 +13,7 @@ body {
 	padding: 10px 0;
 
 	/* debug */
-	background-color: #3161E0; 
+	background-color: #255EE9; 
 }
 
 .header-nav {
@@ -66,6 +66,8 @@ body {
 
 	/* debug */
 	background-color: darkblue;
+	background-image: url(/img/jumbo.png);
+	background-size: cover;
 	
 	
 }
@@ -144,6 +146,8 @@ main>section>.container {
 
 .bg-gray {
 	background-color: lightgray;
+	
+	
 }
 
 .main-col {
@@ -152,16 +156,22 @@ main>section>.container {
 	/* debug */
 	/* background-color: cornflowerblue;
 	border: 2px dashed black; */
+	padding-left: 300px;
+	
 }
 
-.side-col {
-	width: 300px;
+
+	
+
+	.side-col {
+	width: 500px;
 	font-size: 30px;
 	padding-top: 30px
 
 	/* debug */
+
 	/* background-color: pink;
-	border: 2px dashed black; */
+	border: 2px dashed black */
 }
 
 .hilighted-content {
