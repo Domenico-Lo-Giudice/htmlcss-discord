@@ -152,6 +152,10 @@ main>section>.container {
 	
 }
 
+.frog {
+	
+}
+
 .wavy {
 	width: 100%;
 	display: block;
@@ -164,7 +168,7 @@ main>section>.container {
 	/* debug */
 	/* background-color: cornflowerblue;
 	border: 2px dashed black; */
-	padding-left: 300px;
+	padding-right: 100px;
 	
 }
 
