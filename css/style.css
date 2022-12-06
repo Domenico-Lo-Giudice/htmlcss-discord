@@ -179,8 +179,26 @@ main>section>.container {
 
 	/* debug */
 	min-height: 800px;
-	background-color: forestgreen;
-	border: 2px dashed black;
+	/* background-color: forestgreen;
+	border: 2px dashed black; */
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+.hilighted-content > h2 {
+	padding-bottom: 100px;
+}
+
+.mac-green {
+		border-radius: 20px;
+		padding: 5px;
+		border-color: transparent;
+		margin-bottom: 100px;
+		padding: 10px;
+		background-color: #8EA1E1;
+		color: white;
+		
 }
 
 /* FOOTER */
